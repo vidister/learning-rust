@@ -1,0 +1,9 @@
+[package]
+name = "audiors"
+version = "0.0.1"
+authors = ["v@vidister.de"]
+
+[dependencies]
+byteorder = "1.1.0"
+num = "0.1.40"
+rand = "0.3.15"
